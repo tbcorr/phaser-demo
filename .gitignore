@@ -1,0 +1,9 @@
+# ignore all . files
+.*
+
+# do not ignore .gitignore
+!.gitignore
+
+# ignore npm / bower
+node_modules
+bower_components

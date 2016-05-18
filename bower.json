@@ -1,0 +1,20 @@
+{
+  "name": "neo-pangea-demo",
+  "authors": [
+    "tbcorr <tbcorr@gmail.com>"
+  ],
+  "description": "A demo for Neo-Pangea",
+  "main": "javascript.min.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.4.7"
+  }
+}

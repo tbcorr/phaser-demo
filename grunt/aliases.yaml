@@ -1,0 +1,13 @@
+default:
+  - 'sass:dev'
+  - 'uglify:dev'
+  - 'connect'
+  - 'watch'
+
+dev:
+  - 'sass:dev'
+  - 'uglify:dev'
+
+prod:
+  - 'sass:prod'
+  - 'uglify:prod'

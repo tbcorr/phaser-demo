@@ -1,0 +1,22 @@
+{
+  "name": "neo-pangea-demo",
+  "version": "1.0.0",
+  "description": "A demo for Neo-Pangea.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "tbcorr",
+    "email": "tbcorr@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0",
+    "load-grunt-config": "^0.19.2",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}

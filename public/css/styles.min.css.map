@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "styles.min.css",
+	"sources": [
+		"../../resources/sass/styles.scss"
+	],
+	"mappings": "AAAA,AAAA,eAAe,CAAC;EACZ,SAAS,EAAE,MAAO;EAClB,MAAM,EAAE,MAAO;EACf,OAAO,EAAE,IAAK;CACjB;;AAED,AAAA,YAAY,CAAC;EACT,KAAK,EAAE,IAAK;EACZ,UAAU,EAAE,KAAM;EAClB,OAAO,EAAE,KAAM;EACf,MAAM,EAAE,MAAO;EACf,MAAM,EAAE,iBAAkB;CAK7B;;AAVD,AAOI,YAPQ,CAOR,MAAM,CAAC;EACH,MAAM,EAAE,MAAO;CAClB",
+	"names": []
+}

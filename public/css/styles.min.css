@@ -1,0 +1,19 @@
+.site-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.canvas-wrap {
+  width: 100%;
+  min-height: 800px;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #000000;
+}
+
+.canvas-wrap canvas {
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=styles.min.css.map */
