@@ -1,10 +1,9 @@
 {
-  "name": "neo-pangea-demo",
+  "name": "phaser-demo",
   "authors": [
     "tbcorr <tbcorr@gmail.com>"
   ],
-  "description": "A demo for Neo-Pangea",
-  "main": "javascript.min.js",
+  "description": "A phaser demo.",
   "license": "MIT",
   "private": true,
   "ignore": [
